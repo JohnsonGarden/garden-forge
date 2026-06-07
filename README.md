@@ -1,14 +1,14 @@
 # garden-forge
 
-Open-source projects, AI skills, workflow packages, and practical AI tooling.
+Personal open-source workspace for projects, AI skills, workflow packages, templates, and documentation that I choose to publish.
 
 ## Structure
 
-- `projects/` - open-source project workspaces and reusable project assets.
-- `skills/` - AI skills and workflow packages for different assistant platforms.
-- `templates/` - reusable scaffolds, prompts, configs, and starter layouts.
-- `docs/` - documentation, notes, and public writeups.
+- `projects/` - open-source projects I build and maintain.
+- `skills/` - AI skills and workflow packages I write for different assistant platforms.
+- `templates/` - reusable scaffolds, prompts, configs, and starter layouts I am willing to share.
+- `docs/` - documentation, notes, and public writeups for my open-source work.
 
 ## Current Focus
 
-This repository is intended to collect practical AI tooling and reusable workflow packages that can be shared publicly.
+This repository is for my own publicly shared work. It is not a general collection of third-party open-source resources.
