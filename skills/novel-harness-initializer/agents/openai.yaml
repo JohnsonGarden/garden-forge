@@ -1,0 +1,7 @@
+interface:
+  display_name: "小说Harness初始化"
+  short_description: "快速搭建多智能体小说创作工程框架"
+  default_prompt: "Use $novel-harness-initializer to initialize a complete multi-agent novel writing harness for this project."
+
+policy:
+  allow_implicit_invocation: true
